@@ -1,0 +1,39 @@
+body{
+  background-color: pink;
+  font-family: cursive;
+}
+img:hover{
+  background-color: green;
+  border-radius: 10%;
+}
+img:active{
+  background-color: red;
+}
+img:focus{
+  border-width: thin;
+}
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 50%;
+}
+h1{
+  color: red;
+  font-variant: small-caps;
+  font-family: cursive;
+  font-stretch: normal;
+}
+.im1{
+  background-color: orange;
+}
+.im2{
+  background-color: magenta;
+}
+h2
+{
+  font-family:sans-serif;
+  color:brown;
+}
